@@ -2,11 +2,11 @@
 
 ## Group Info
 
-Group ID: 33
+Group ID: 33 <br />
 
-Member 1 : 1905079 - Salman Sayeed
-Member 2 : 1905083 - Jaid Monwar Chowdhury
-Member 3 : 1905112 - Saad Mohammad Rafid Pial
+Member 1 : 1905079 - Salman Sayeed <br />
+Member 2 : 1905083 - Jaid Monwar Chowdhury <br />
+Member 3 : 1905112 - Saad Mohammad Rafid Pial <br />
 
 ## Title: You Only Cache Once: Decoder-Decoder Architectures for Language Models (Group ID: 13)
 
